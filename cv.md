@@ -2,7 +2,7 @@
 ## Software Engineer
 
 ### Contact info:
-I will contact you myself
+[Discord](https://discordapp/users/1107595817981841410)
 
 ### Skills:
 Java, Spring Boot, PostgreSQL, Intellij IDEA, Git
