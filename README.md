@@ -1,1 +1,1 @@
-# rsschool-cv
+https://uladzislau-slk.github.io/rsschool-cv/cv
